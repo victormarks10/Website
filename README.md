@@ -1,11 +1,16 @@
-<h1>  Projeto WebSite </h1>
+<h1 align="center"> Dev Food</h1>
 
-<h3> Tecnologias : </h3>
-
-<p> (HTML/CSS/JAVASCRIPT/GIT/GITHUB) </p>
-
-https://neon-horse-89165e.netlify.app/
-
-<img src= "https://user-images.githubusercontent.com/120345922/219803916-17e1da43-03ed-4cb7-8b59-116f5fe9891d.png"/>
-<img src= "https://user-images.githubusercontent.com/120345922/219803994-e5174544-e2bc-4050-be53-36b3f99346a8.png"/>
-
+<p> Este é um site de uma Hamburgueria chamada Dev Food que oferece uma experiência única e saborosa para os seus clientes. Neste projeto utilizei : (HTML/CSS/JAVASCRIPT)</p>
+  
+  
+  <p align="center">
+  <img height="300px" src = "https://github.com/victormarks10/Website/blob/master/Captura_de_Tela__53_-removebg-preview.png?raw=true">
+  </p>
+  
+   <p align="center">
+  <img height="400px" src = "https://github.com/victormarks10/Website/blob/master/Captura_de_Tela__52_-removebg-preview.png?raw=true">
+  </p>
+   <p align="center">
+  <img height="400px" src = "https://github.com/victormarks10/Website/blob/master/Captura_de_Tela__55_-removebg-preview.png?raw=true">
+  </p>
+  
